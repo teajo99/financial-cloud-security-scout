@@ -501,7 +501,7 @@ Your Name
 
 GitHub: https://github.com/teajo99
 
-LinkedIn: linkedin.com/in/temi-a-b406b618b
+LinkedIn: https://www.linkedin.com/in/temi-a-b406b618b/
 
 ---
 
