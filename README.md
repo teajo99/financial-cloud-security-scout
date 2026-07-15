@@ -464,7 +464,7 @@ By identifying vulnerabilities early and prioritising high-impact issues, organi
 
 # Author
 
-Your Name
+Temitope Ajo
 
 GitHub: https://github.com/teajo99
 
