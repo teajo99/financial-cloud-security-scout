@@ -499,11 +499,9 @@ By identifying vulnerabilities early and prioritising high-impact issues, organi
 
 Your Name
 
-GitHub:
-https://github.com/yourusername
+GitHub: https://github.com/teajo99
 
-LinkedIn:
-https://linkedin.com/in/yourprofile
+LinkedIn: linkedin.com/in/temi-a-b406b618b
 
 ---
 
