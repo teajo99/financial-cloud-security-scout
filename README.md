@@ -103,43 +103,10 @@ This solution helps organisations:
 ---
 
 # Architecture
+![image alt](https://github.com/teajo99/financial-cloud-security-scout/blob/314f4481a0f2e6e6330b14937aa89666eba13616/screenshots%20financial%20security/Financial%20Cloud%20Security%20Scout.gif)
 
-![Architecture Diagram](docs/architecture.png)
-
-The solution follows a serverless security monitoring architecture:
-
-```
-                    EventBridge
-                         |
-                         |
-                 Scheduled Scan Trigger
-                         |
-                         v
-                  AWS Lambda Scanner
-                         |
-        ------------------------------------
-        |                |                 |
-        v                v                 v
-       S3          Security Groups        RDS
-     Scanner          Scanner           Scanner
-        |                |                 |
-        ------------------------------------
-                         |
-                         v
-                  Risk Evaluation Engine
-                         |
-                         v
-                    DynamoDB
-                 Security Findings
-                         |
-                         v
-                       SNS
-                         |
-                         v
-                  Security Notifications
-```
-
----
+      
+  
 
 # Technology Stack
 
